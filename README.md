@@ -32,7 +32,7 @@ Response:
 ]
  ```
  
- ## /Names/AlphabeticalOrder - Get a list of names in aplhabetical order
+ ## /Names/AlphabeticalOrder - Get a list of names in alphabetical order
 
 Example Query:
 ```
